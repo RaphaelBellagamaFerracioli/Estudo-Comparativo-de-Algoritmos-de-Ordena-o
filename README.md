@@ -89,11 +89,5 @@ O projeto gera:
 * **Tabelas** com os dados coletados (tempo, comparações, trocas)
 * **Gráficos comparativos** (tempo vs. tamanho, comparações vs. tamanho, trocas vs. tamanho)
 
-## ✅ Requisitos do Trabalho Atendidos:
 
-✔️ Implementação de todos os algoritmos
-✔️ Execução com os três tamanhos e os três tipos de caso
-✔️ Métricas coletadas (tempo, comparações, trocas)
-✔️ Relatório técnico detalhado
-✔️ Link público no GitHub ✅
 
